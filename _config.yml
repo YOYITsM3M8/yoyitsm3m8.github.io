@@ -31,7 +31,8 @@ projects:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
     forks: true
-    # projects: A list of the repository names you want to exclude from the listing.
-    projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+    # projects: A list of the repository names you want to exclude from the listing
+    
+plugins:
+  - "jekyll-github-metadata"
+
