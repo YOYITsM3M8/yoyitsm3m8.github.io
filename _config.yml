@@ -3,3 +3,9 @@ remote_theme: longpdo/neumorphism
 username: YOYITsM3M8
 
 typing_text: a dev
+
+show_aboutme_card: true
+# about_me_title: The will be displayed as the title in the About Me section
+about_me_title: About Me
+# about_me_description: This will be displayed under the title.
+about_me_description: I am a dev i use github, scratch, repl.it and more.
