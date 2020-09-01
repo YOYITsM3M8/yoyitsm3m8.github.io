@@ -37,7 +37,7 @@ plugins:
   - "jekyll-github-metadata"
 
 
-# 
+show_projects_card: true
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
