@@ -1,9 +1,9 @@
 remote_theme: longpdo/neumorphism
-title: YOYITsM3M8
+title: retronbv
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 
-username: YOYITsM3M8
+username: retronbv
 
 typing_text: a dev
 
@@ -13,10 +13,10 @@ about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: I am a dev i use github, scratch, repl.it and more.
 
-github_username: yoyitsm3m8
+github_username: retronbv
 codepen_username: retronbv
 
-repository: yoyitsm3m8/yoyitsm3m8.github.io
+repository: retronbv/retronbv.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
